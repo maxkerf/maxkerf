@@ -1,5 +1,5 @@
 ### Hi there 👋
-I've found a secret!
+I've found a secret, take a look at https://maxkerf.github.io/!
 
 <!--
 **maxkerf/maxkerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
